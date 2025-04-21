@@ -1,9 +1,9 @@
-<!DOCTYPE html >
-<html>
+<!DOCTYPE html>
+<html lang = "en">
 <head>
-  <meta charset="utf-8" >
+<meta charset="utf-8">
   <title>Thank you for your order</title>
-  <style type="text/css">
+  <style>
   ol, ul { 
      list-style-type: none;
       }
@@ -71,7 +71,7 @@
     </ul>
 <?php  }
 if ($toppings_problem) { ?>
-  <hr />
+  <hr/>
   <p>&nbsp;</p>
 <?php } ?>
 
