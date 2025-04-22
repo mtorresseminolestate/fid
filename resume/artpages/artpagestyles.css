@@ -2,7 +2,7 @@
 body {
   background-color: #fffcf3;
   margin: 0 10%;
-  font-family: 'Roboto Flex', sans-serif;
+  font-family: "Roboto Flex", sans-serif;
 }
 header {
   margin-top: 0;
@@ -29,7 +29,7 @@ a:active {
 }
 h1 {
   text-align: center;
-  font-family: 'Roboto Flex', serif;
+  font-family: "Roboto Flex", serif;
   font-weight: normal;
   text-transform: uppercase;
   border-bottom: 1px solid #68f1e8;
