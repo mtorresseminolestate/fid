@@ -1,0 +1,74 @@
+@charset "UTF-8";
+body {
+  font-family: "Press Start 2P", "Zen Dots", sans-serif;
+  font-weight: 400;
+  font-size: 100%;
+  background-color: #4a0074;
+}
+nav {
+  text-align: center;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  background-color: #61ff8376;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #43de62;
+}
+a:visited {
+  color: #148a31;
+}
+a:focus, a:hover {
+  color: #4afa6b;
+  background-color: #1e7a3ecd;
+}
+a:active {
+  color: #74fa8d;
+  background-color: #fff;
+}
+h1 {
+  text-align: center;
+  font-family: "Press Start 2P", serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+h2 {
+  color: #1fe841;
+  font-size: 1em;
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+ol, ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  font-style: bold;
+  color: #e0e0e0f3;
+}
+footer {
+      border-top: 1px solid #d26be0;
+      text-align: center;
+      padding-top: 1em;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+p {
+  font-style: italic;
+  color: #ffffff;
+}
